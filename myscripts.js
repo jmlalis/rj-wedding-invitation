@@ -189,7 +189,7 @@ function addFullName(){
           // var fnameList1 = document.createElement('div');
 
           // myForm.action = "https://api.web3forms.com/submit";
-          myForm.action = "index-1.html"
+          myForm.action = "lastPage.html"
           
           // alert('.');
           //
